@@ -1,0 +1,42 @@
+{
+"depensetotal": 1230,
+"depensedujour": 12000,
+
+"transactions" : [ 
+    { 
+    "color": "0xfffe695d",
+     "letter": "P",
+     "title": "Pain thon café",
+     "subTitle": "Transport",
+     "price": "-300 FCFA"
+    }, 
+    { 
+        "color": "0xfffe695d",
+        "letter": "B",
+        "title": "Boisson coca",
+        "subTitle": "Alimentation",
+        "price": "-500 FCFA"
+    }, 
+    { 
+        "color": "0xfffe695d",
+        "letter": "M",
+        "title": "Mouchoir",
+        "subTitle": "Alimentation",
+        "price": "-500 FCFA"
+    },
+    { 
+        "color": "0xfffe695d",
+        "letter": "M",
+        "title": "Mouchoir",
+        "subTitle": "Alimentation",
+        "price": "-500 FCFA"
+    },
+    { 
+        "color": "0xfffe695d",
+        "letter": "M",
+        "title": "Mouchoir",
+        "subTitle": "Alimentation",
+        "price": "-500 FCFA"
+    }
+]
+}
